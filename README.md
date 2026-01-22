@@ -4,7 +4,6 @@ Creating an online Uno game
 
 ## Introduction
 Welcome to the Card Game Assignment! 
-Assignment for FIT1008/FIT2085 - A1
 
 ## Game Overview
 The card game involves multiple players and a deck of cards. 
