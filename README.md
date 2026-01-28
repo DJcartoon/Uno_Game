@@ -1,5 +1,4 @@
-# FIT1008-S1-2025-A1
-Assignment for FIT1008/FIT2085 - A1
+
 
 ## Introduction
 Welcome to the Card Game Assignment! This assignment is designed to help you learn the fundamentals of algorithms and data structures by implementing a card game. Below are the details of the game, its rules, and your tasks. Good luck and have fun!
@@ -16,3 +15,4 @@ The card game involves multiple players and a deck of cards. The objective is to
 - You cannot use any hard-coded constant numbers. Please use the numbers provided in config.py.
 - You cannot access the internals of ANY data structures or any classes except the custom classes that you edit in the tasks. You can only access the methods of the data structures that are provided to you in the scaffold. Each use of the internals of a data structure will count as a major mistake and will lose at least half of the marks for the task.
 - The submitted program will be tested using Python version 3.10.0 or later.
+
