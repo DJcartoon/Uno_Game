@@ -4,6 +4,7 @@ Creating an online Uno game
 
 ## Introduction
 Welcome to the Card Game Assignment! 
+- using python
 
 ## Game Overview
 The card game involves multiple players and a deck of cards. 
